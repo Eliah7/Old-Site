@@ -1,7 +1,8 @@
 /* Theme */
 
-main {
+.main {
 	background: #E8EAF6;
+	background-image: url("/me.jpg");
 	color: #303F9F;
 }
 
